@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spidr-design/static/css/main.b081b4a1.css",
+    "main.js": "/spidr-design/static/js/main.4e8783b0.js",
+    "index.html": "/spidr-design/index.html",
+    "main.b081b4a1.css.map": "/spidr-design/static/css/main.b081b4a1.css.map",
+    "main.4e8783b0.js.map": "/spidr-design/static/js/main.4e8783b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b081b4a1.css",
+    "static/js/main.4e8783b0.js"
+  ]
+}
